@@ -21,7 +21,7 @@
 // THE SOFTWARE.
 
 #import "GRMustacheNSUndefinedKeyExceptionGuard_private.h"
-#import "JRSwizzle.h"
+#import "NSObject+Swizzle.h"
 
 static const NSString *GRMustacheNSUndefinedKeyExceptionGuardSilentObjects = @"GRMustacheNSUndefinedKeyExceptionGuardSilentObjects";
 
