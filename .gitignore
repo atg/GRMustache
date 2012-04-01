@@ -1,3 +1,5 @@
+Libs/groue
+Tests/spec
 DoxygenDocs.docset
 # xcode
 build/*
